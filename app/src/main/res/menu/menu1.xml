@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cheema.r_frag.TabbedActivity">
+    <item
+        android:id="@+id/menu1_0"
+        android:orderInCategory="100"
+        android:title="@string/menu1_0"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu1_1"
+        android:orderInCategory="100"
+        android:title="@string/menu1_1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu1_2"
+        android:orderInCategory="100"
+        android:title="@string/menu1_2"
+        app:showAsAction="never" />
+</menu>

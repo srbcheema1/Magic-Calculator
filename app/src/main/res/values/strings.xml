@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculater</string>
+    <string name="menu1_0">History</string>
+    <string name="menu1_1">Rate Our App</string>
+    <string name="menu1_2">About Us</string>
+    <string name="menu1_3">Advance Settings</string>
+    <string name="menu1_4">Toggle dynamic Ans</string>
+    <string name="aboutus">Calculater is an android application developed during Summer Holidays \n\nThis is just a fun application.\n
+    \n\nDevelopers:--\nSarbjit Singh
+        \n\nThank you for using app..!!
+    </string>
+</resources>

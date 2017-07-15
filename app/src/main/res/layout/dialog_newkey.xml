@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cheema.calculater.mymagic.KeyTables">
+                <LinearLayout
+                    android:layout_width="250dp"
+                    android:gravity="center"
+                    android:layout_height="150dp"
+                    android:weightSum="100"
+                    android:background="#ffff"
+                    android:orientation="vertical">
+
+                    <EditText
+                        android:id="@+id/keyEt"
+                        android:layout_width="220dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="30"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="5dp"
+                        android:layout_gravity="center"
+                        android:ems="10"
+                        android:inputType="number"
+                        android:background="@drawable/edittextborder"
+                        android:textColor="#fff"
+                        android:textColorHint="#fff"
+                        android:gravity="center"
+                        android:hint="Enter New Key" />
+                    <EditText
+                        android:id="@+id/ansEt"
+                        android:layout_width="220dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="30"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="5dp"
+                        android:textColor="#fff"
+                        android:textColorHint="#fff"
+                        android:gravity="center"
+                        android:ems="10"
+                        android:background="@drawable/edittextborder"
+                        android:hint="Enter Value"
+                        android:inputType="number" />
+                    <Button
+                        android:id="@+id/okBtn"
+                        android:layout_width="130dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="30"
+                        android:layout_marginTop="20dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="5dp"
+                        android:background="@drawable/buttonborder"
+                        android:text="OK"
+                        android:textColor="#fff"/>
+
+                </LinearLayout>
+</RelativeLayout>
