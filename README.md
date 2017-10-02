@@ -2,7 +2,15 @@
 
 A calculator with the basic functions.
 
-You can copy the result or formula to clipboard by long pressing it.
+It has some cool tricks.
+
+- Type 1501 and click on menu button and explore additional settings.
+
+- Click on Advance Settings and create a key value pair where key must be 4 digits long and value must be 8 digits long.
+
+- As you type the key and press '=' then begin doing calculationsafter 4 = signs pressed calculator will show the result "value you fixed in advance settings"
+
+For more tricks, watch this (video)[https://www.youtube.com/watch?v=hNkF7I1K8oo]
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides a Dark theme.
 
