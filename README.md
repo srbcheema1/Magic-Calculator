@@ -10,7 +10,7 @@ It has some cool tricks.
 
 - As you type the key and press '=' then begin doing calculationsafter 4 = signs pressed calculator will show the result "value you fixed in advance settings"
 
-For more tricks, watch this (video)[https://www.youtube.com/watch?v=hNkF7I1K8oo]
+For more tricks, watch this [video](https://www.youtube.com/watch?v=hNkF7I1K8oo)
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides a Dark theme.
 
