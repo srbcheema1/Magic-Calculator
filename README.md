@@ -2,7 +2,7 @@
 
 A calculator with the basic functions.
 
-It has some cool tricks.
+It has some cool features.
 
 - Type 1501 and click on menu button and explore additional settings.
 
@@ -12,7 +12,7 @@ It has some cool tricks.
 
 For more tricks, watch this (video)[https://www.youtube.com/watch?v=hNkF7I1K8oo]
 
-Contains no ads or unnecessary permissions. It is fully opensource, provides a Dark theme.
+Contains no ads or unnecessary permissions. It's an opensource project and provides a Dark theme.
 
 ## Test Screenshots
 
