@@ -10,15 +10,19 @@ It has some cool features.
 
 - As you type the key and press '=' then begin doing calculationsafter 4 = signs pressed calculator will show the result "value you fixed in advance settings"
 
-For more tricks, watch this [video](https://www.youtube.com/watch?v=hNkF7I1K8oo)
+To learn trick, watch this [video](https://www.youtube.com/watch?v=hNkF7I1K8oo)
 
 Contains no ads or unnecessary permissions. It's an opensource project and provides a Dark theme.
 
 ## Test Screenshots
 
-![MainActivity](https://github.com/rivhx/Calculater/blob/screenshots/screenshots/Screenshot-MainActivity.png?raw=true)
+![normal_menu](screenshots/normal_menu.jpeg)
 
-![Menu](https://github.com/rivhx/Calculater/blob/screenshots/screenshots/Screenshot-Menu.png?raw=true)
+![cheat_code](screenshots/cheat_code.jpeg?raw=true)
+
+![secret_menu](screenshots/secret_menu.jpeg?raw==true)
+
+![keys](screenshots/keys.jpeg?raw==true)
 
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
