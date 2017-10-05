@@ -16,13 +16,7 @@ Contains no ads or unnecessary permissions. It's an opensource project and provi
 
 ## Test Screenshots
 
-![normal_menu](screenshots/normal_menu.jpeg)
-
-![cheat_code](screenshots/cheat_code.jpeg?raw=true)
-
-![secret_menu](screenshots/secret_menu.jpeg?raw==true)
-
-![keys](screenshots/keys.jpeg?raw==true)
+![normal_menu](screenshots/normal_menu.jpeg) ![cheat_code](screenshots/cheat_code.jpeg?raw=true) ![secret_menu](screenshots/secret_menu.jpeg?raw==true) ![keys](screenshots/keys.jpeg?raw==true)
 
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
