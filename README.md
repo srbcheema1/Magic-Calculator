@@ -1,12 +1,12 @@
 # Calculater
 
-A calculator with the basic functions.
+A calculator with basic functions.
 
-It has some cool features.
+It has some really cool features.
 
-- Type 1501 and click on menu button and explore additional settings.
+- Type 1501 and click on the menu button and explore additional settings.
 
-- Click on Advance Settings and create a key value pair where key must be 4 digits long and value must be 8 digits long.
+- Click on Advanced Settings and create a key value pair where key must be 4 digits long and value must be 8 digits long.
 
 - As you type the key and press '=' then begin doing calculationsafter 4 = signs pressed calculator will show the result "value you fixed in advance settings"
 
