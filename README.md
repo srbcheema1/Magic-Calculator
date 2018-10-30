@@ -1,4 +1,4 @@
-# Calculater
+# Calculator
 
 A calculator with basic functions.
 
@@ -12,7 +12,7 @@ It has some really cool features.
 
 To learn trick, watch this [video](https://www.youtube.com/watch?v=hNkF7I1K8oo)
 
-Contains no ads or unnecessary permissions. It's an opensource project and provides a Dark theme.
+Contains no ads or unnecessary permissions. It's an Open Source project and provides a Dark theme.
 
 ## Test Screenshots:
 
