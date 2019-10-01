@@ -1,4 +1,4 @@
-# Calculater
+# Calculator
 
 A calculator with basic functions.
 
@@ -35,3 +35,5 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+Happy coding and keep learning
