@@ -1,4 +1,4 @@
-# Calculater
+# Magic-Calculator
 
 A calculator with basic functions.
 
